@@ -1,1 +1,83 @@
-{"name":"Top playlists","hash":-1.281130918E9,"number":1.0,"playlists":[{"name":"Today\u0027s Top Hits","id":"37i9dQZF1DXcBWIGoYBM5M","coverUrl":"https://i.scdn.co/image/ab67616d00001e0232a774b6dc3c82a90deeac45","tracksPath":"37i9dQZF1DXcBWIGoYBM5M"},{"name":"RapCaviar","id":"37i9dQZF1DX0XUsuxWHRQd","coverUrl":"https://i.scdn.co/image/ab67616d00001e021b36f91abf80aedb7c88f460","tracksPath":"37i9dQZF1DX0XUsuxWHRQd"},{"name":"Rock This","id":"37i9dQZF1DXcF6B6QPhFDv","coverUrl":"https://i.scdn.co/image/ab67616d00001e02eff5054a41cee474ac1149ab","tracksPath":"37i9dQZF1DXcF6B6QPhFDv"},{"name":"mint","id":"37i9dQZF1DX4dyzvuaRJ0n","coverUrl":"https://i.scdn.co/image/ab67616d00001e02f1462ebfec5f96421f44dcd3","tracksPath":"37i9dQZF1DX4dyzvuaRJ0n"},{"name":"Hot Country","id":"37i9dQZF1DX1lVhptIYRda","coverUrl":"https://i.scdn.co/image/ab67616d00001e02e2678fdf05e5e9b0d329a804","tracksPath":"37i9dQZF1DX1lVhptIYRda"},{"name":"¡Viva Latino!","id":"37i9dQZF1DX10zKzsJ2jva","coverUrl":"https://i.scdn.co/image/ab67616d00001e02044a5466dac00f7b3c570b99","tracksPath":"37i9dQZF1DX10zKzsJ2jva"},{"name":"Are \u0026 Be","id":"37i9dQZF1DX4SBhb3fqCJd","coverUrl":"https://i.scdn.co/image/ab67616d00001e02fa40d26659b33036efcfd43f","tracksPath":"37i9dQZF1DX4SBhb3fqCJd"},{"name":"Top 50 USA","id":"37i9dQZEVXbLRQDuF5jeBp","coverUrl":"https://i.scdn.co/image/ab67616d00001e021b36f91abf80aedb7c88f460","tracksPath":"37i9dQZEVXbLRQDuF5jeBp"},{"name":"El Top 50 Global","id":"37i9dQZEVXbMDoHDwVN2tF","coverUrl":"https://i.scdn.co/image/ab67616d00001e0259779689e1d9c15ca2f76b84","tracksPath":"37i9dQZEVXbMDoHDwVN2tF"},{"name":"Los 50 más virales globales","id":"37i9dQZEVXbLiRSasKsNU9","coverUrl":"https://i.scdn.co/image/ab67616d00001e02b55f1a2f0299d6525c6ac99e","tracksPath":"37i9dQZEVXbLiRSasKsNU9"},{"name":"Los 50 más virales de Estados Unidos","id":"37i9dQZEVXbKuaTI1Z1Afx","coverUrl":"https://i.scdn.co/image/ab67616d00001e02b55f1a2f0299d6525c6ac99e","tracksPath":"37i9dQZEVXbKuaTI1Z1Afx"},{"name":"New Music Friday","id":"37i9dQZF1DX4JAvHpjipBk","coverUrl":"https://i.scdn.co/image/ab67616d00001e0232a774b6dc3c82a90deeac45","tracksPath":"37i9dQZF1DX4JAvHpjipBk"}]}
+{
+  "name": "Top playlists",
+  "hash": -1281130918,
+  "number": 1,
+  "playlists": [
+    {
+      "name": "Covers",
+      "id": "1",
+      "coverUrl": "https://i.scdn.co/image/ab67616d00001e0232a774b6dc3c82a90deeac45"    },
+    {
+      "name": "Today's Top Hits",
+      "id": "37i9dQZF1DXcBWIGoYBM5M",
+      "coverUrl": "https://i.scdn.co/image/ab67616d00001e0232a774b6dc3c82a90deeac45",
+      "tracksPath": "37i9dQZF1DXcBWIGoYBM5M"
+    },
+    {
+      "name": "RapCaviar",
+      "id": "37i9dQZF1DX0XUsuxWHRQd",
+      "coverUrl": "https://i.scdn.co/image/ab67616d00001e021b36f91abf80aedb7c88f460",
+      "tracksPath": "37i9dQZF1DX0XUsuxWHRQd"
+    },
+    {
+      "name": "Rock This",
+      "id": "37i9dQZF1DXcF6B6QPhFDv",
+      "coverUrl": "https://i.scdn.co/image/ab67616d00001e02eff5054a41cee474ac1149ab",
+      "tracksPath": "37i9dQZF1DXcF6B6QPhFDv"
+    },
+    {
+      "name": "mint",
+      "id": "37i9dQZF1DX4dyzvuaRJ0n",
+      "coverUrl": "https://i.scdn.co/image/ab67616d00001e02f1462ebfec5f96421f44dcd3",
+      "tracksPath": "37i9dQZF1DX4dyzvuaRJ0n"
+    },
+    {
+      "name": "Hot Country",
+      "id": "37i9dQZF1DX1lVhptIYRda",
+      "coverUrl": "https://i.scdn.co/image/ab67616d00001e02e2678fdf05e5e9b0d329a804",
+      "tracksPath": "37i9dQZF1DX1lVhptIYRda"
+    },
+    {
+      "name": "¡Viva Latino!",
+      "id": "37i9dQZF1DX10zKzsJ2jva",
+      "coverUrl": "https://i.scdn.co/image/ab67616d00001e02044a5466dac00f7b3c570b99",
+      "tracksPath": "37i9dQZF1DX10zKzsJ2jva"
+    },
+    {
+      "name": "Are & Be",
+      "id": "37i9dQZF1DX4SBhb3fqCJd",
+      "coverUrl": "https://i.scdn.co/image/ab67616d00001e02fa40d26659b33036efcfd43f",
+      "tracksPath": "37i9dQZF1DX4SBhb3fqCJd"
+    },
+    {
+      "name": "Top 50 USA",
+      "id": "37i9dQZEVXbLRQDuF5jeBp",
+      "coverUrl": "https://i.scdn.co/image/ab67616d00001e021b36f91abf80aedb7c88f460",
+      "tracksPath": "37i9dQZEVXbLRQDuF5jeBp"
+    },
+    {
+      "name": "El Top 50 Global",
+      "id": "37i9dQZEVXbMDoHDwVN2tF",
+      "coverUrl": "https://i.scdn.co/image/ab67616d00001e0259779689e1d9c15ca2f76b84",
+      "tracksPath": "37i9dQZEVXbMDoHDwVN2tF"
+    },
+    {
+      "name": "Los 50 más virales globales",
+      "id": "37i9dQZEVXbLiRSasKsNU9",
+      "coverUrl": "https://i.scdn.co/image/ab67616d00001e02b55f1a2f0299d6525c6ac99e",
+      "tracksPath": "37i9dQZEVXbLiRSasKsNU9"
+    },
+    {
+      "name": "Los 50 más virales de Estados Unidos",
+      "id": "37i9dQZEVXbKuaTI1Z1Afx",
+      "coverUrl": "https://i.scdn.co/image/ab67616d00001e02b55f1a2f0299d6525c6ac99e",
+      "tracksPath": "37i9dQZEVXbKuaTI1Z1Afx"
+    },
+    {
+      "name": "New Music Friday",
+      "id": "37i9dQZF1DX4JAvHpjipBk",
+      "coverUrl": "https://i.scdn.co/image/ab67616d00001e0232a774b6dc3c82a90deeac45",
+      "tracksPath": "37i9dQZF1DX4JAvHpjipBk"
+    }
+  ]
+}
