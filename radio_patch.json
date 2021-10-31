@@ -43,7 +43,7 @@
     "action": "UPDATE"
   },
   {
-    "stationuuid": "    e6899db2-6648-4e78-aab0-d72a807387bb",
+    "stationuuid": "e6899db2-6648-4e78-aab0-d72a807387bb",
     "name": "Rock FM",
     "favicon": "https://scontent.fmad10-1.fna.fbcdn.net/v/t1.6435-1/p200x200/122088912_3635632973133656_3583575214632700990_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=FC1H4t427hMAX_XSuKu&_nc_ht=scontent.fmad10-1.fna&edm=AKsJ254EAAAA&oh=dc392362a2b7dfe8b1be973ed571e608&oe=61A2B3AF",
     "action": "DELETE"
