@@ -1,46 +1,51 @@
 [
-    {"stationuuid":"9618e3b0-0601-11e8-ae97-52543be04c81",
-     "favicon":"https://static.wikia.nocookie.net/logopedia/images/f/f7/Kiss_FM_%282003%29.svg/revision/latest/scale-to-width-down/250?cb=20210509112129",
-     "action": "UPDATE"
-    },
-    {"stationuuid":"62a48e21-eea6-11e8-a471-52543be04c81",
-     "favicon":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRuf8swGhbZ73HQGfdW6pV1xwlcs_v48ucPLmjTU&usqp=CAE&s",
-     "action": "UPDATE"
-    },
-    {"stationuuid":"9611ecb1-0601-11e8-ae97-52543be04c81",
-     "favicon":"https://s3.amazonaws.com/cdn.radionewproject.com/4dc06664a3d184e5362cab79f60cd7f6.jpg",
-     "action": "UPDATE"
-    },
-    {"stationuuid":"9610152e-0601-11e8-ae97-52543be04c81",
-     "favicon":"https://www.hitfm.es/wp-content/uploads/2019/06/Logo_HIT_Home-1.png",
-     "action": "UPDATE"
-    },
-    {"stationuuid":"b129bdd2-65bc-4363-8f74-14b474bc0500",
-     "favicon":"https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/ae/a0/100158/1/c300.png",
-     "action": "UPDATE"
-    },
-    {"stationuuid":"9649dec5-0601-11e8-ae97-52543be04c81",
-     "name": "Rock FM (low quality)",
-     "favicon":"https://scontent.fmad10-1.fna.fbcdn.net/v/t1.6435-1/p200x200/122088912_3635632973133656_3583575214632700990_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=FC1H4t427hMAX_XSuKu&_nc_ht=scontent.fmad10-1.fna&edm=AKsJ254EAAAA&oh=dc392362a2b7dfe8b1be973ed571e608&oe=61A2B3AF",
-     "action": "UPDATE"
-    },
-    {"stationuuid":"c88a6d2c-104f-11e8-ae97-52543be04c81",
-     "name": "Rock FM",
-     "favicon":"https://scontent.fmad10-1.fna.fbcdn.net/v/t1.6435-1/p200x200/122088912_3635632973133656_3583575214632700990_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=FC1H4t427hMAX_XSuKu&_nc_ht=scontent.fmad10-1.fna&edm=AKsJ254EAAAA&oh=dc392362a2b7dfe8b1be973ed571e608&oe=61A2B3AF",
-     "action": "UPDATE"
-    },
-    {"stationuuid":"c88a6d2c-104f-11e8-ae97-52543be04c81",
-     "name": "Rock FM",
-     "favicon":"https://scontent.fmad10-1.fna.fbcdn.net/v/t1.6435-1/p200x200/122088912_3635632973133656_3583575214632700990_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=FC1H4t427hMAX_XSuKu&_nc_ht=scontent.fmad10-1.fna&edm=AKsJ254EAAAA&oh=dc392362a2b7dfe8b1be973ed571e608&oe=61A2B3AF",
-     "action": "UPDATE"
-    },
-    {"stationuuid":"    e6899db2-6648-4e78-aab0-d72a807387bb",
-     "name": "Rock FM",
-     "favicon":"https://scontent.fmad10-1.fna.fbcdn.net/v/t1.6435-1/p200x200/122088912_3635632973133656_3583575214632700990_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=FC1H4t427hMAX_XSuKu&_nc_ht=scontent.fmad10-1.fna&edm=AKsJ254EAAAA&oh=dc392362a2b7dfe8b1be973ed571e608&oe=61A2B3AF",
-     "action": "DELETE"
-    },
-    
-    
-
-
+  {
+    "stationuuid": "9618e3b0-0601-11e8-ae97-52543be04c81",
+    "favicon": "https://static.wikia.nocookie.net/logopedia/images/f/f7/Kiss_FM_%282003%29.svg/revision/latest/scale-to-width-down/250?cb=20210509112129",
+    "action": "UPDATE"
+  },
+  {
+    "stationuuid": "62a48e21-eea6-11e8-a471-52543be04c81",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRuf8swGhbZ73HQGfdW6pV1xwlcs_v48ucPLmjTU&usqp=CAE&s",
+    "action": "UPDATE"
+  },
+  {
+    "stationuuid": "9611ecb1-0601-11e8-ae97-52543be04c81",
+    "favicon": "https://s3.amazonaws.com/cdn.radionewproject.com/4dc06664a3d184e5362cab79f60cd7f6.jpg",
+    "action": "UPDATE"
+  },
+  {
+    "stationuuid": "9610152e-0601-11e8-ae97-52543be04c81",
+    "favicon": "https://www.hitfm.es/wp-content/uploads/2019/06/Logo_HIT_Home-1.png",
+    "action": "UPDATE"
+  },
+  {
+    "stationuuid": "b129bdd2-65bc-4363-8f74-14b474bc0500",
+    "favicon": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/ae/a0/100158/1/c300.png",
+    "action": "UPDATE"
+  },
+  {
+    "stationuuid": "9649dec5-0601-11e8-ae97-52543be04c81",
+    "name": "Rock FM (low quality)",
+    "favicon": "https://scontent.fmad10-1.fna.fbcdn.net/v/t1.6435-1/p200x200/122088912_3635632973133656_3583575214632700990_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=FC1H4t427hMAX_XSuKu&_nc_ht=scontent.fmad10-1.fna&edm=AKsJ254EAAAA&oh=dc392362a2b7dfe8b1be973ed571e608&oe=61A2B3AF",
+    "action": "UPDATE"
+  },
+  {
+    "stationuuid": "c88a6d2c-104f-11e8-ae97-52543be04c81",
+    "name": "Rock FM",
+    "favicon": "https://scontent.fmad10-1.fna.fbcdn.net/v/t1.6435-1/p200x200/122088912_3635632973133656_3583575214632700990_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=FC1H4t427hMAX_XSuKu&_nc_ht=scontent.fmad10-1.fna&edm=AKsJ254EAAAA&oh=dc392362a2b7dfe8b1be973ed571e608&oe=61A2B3AF",
+    "action": "UPDATE"
+  },
+  {
+    "stationuuid": "c88a6d2c-104f-11e8-ae97-52543be04c81",
+    "name": "Rock FM",
+    "favicon": "https://scontent.fmad10-1.fna.fbcdn.net/v/t1.6435-1/p200x200/122088912_3635632973133656_3583575214632700990_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=FC1H4t427hMAX_XSuKu&_nc_ht=scontent.fmad10-1.fna&edm=AKsJ254EAAAA&oh=dc392362a2b7dfe8b1be973ed571e608&oe=61A2B3AF",
+    "action": "UPDATE"
+  },
+  {
+    "stationuuid": "    e6899db2-6648-4e78-aab0-d72a807387bb",
+    "name": "Rock FM",
+    "favicon": "https://scontent.fmad10-1.fna.fbcdn.net/v/t1.6435-1/p200x200/122088912_3635632973133656_3583575214632700990_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=FC1H4t427hMAX_XSuKu&_nc_ht=scontent.fmad10-1.fna&edm=AKsJ254EAAAA&oh=dc392362a2b7dfe8b1be973ed571e608&oe=61A2B3AF",
+    "action": "DELETE"
+  }
 ]
